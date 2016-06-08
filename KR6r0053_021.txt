@@ -1,27 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:35.659378
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2060
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0053_T_021-0606c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 21
 ¶
 ¶
-
- 續高僧傳卷第二十一¶
+續高僧傳卷第二十一¶
 ¶
 大唐西明寺沙門釋道宣撰¶
 
-4明律
-上
-:PROPERTIES:
-:head: 明律上　正傳十五　附見十二
-:END:
-¶
+** 明律上　正傳十五　附見十二¶
 
 梁楊都天竺寺釋法超傳一¶
 
@@ -285,8 +279,7 @@
 法准。知名後進。皆執卷請益。又與真諦同¶
 止晉安。故得講譯都會交映法門。邊俗信¶
 心於斯風革。酒家毀其柞器。漁者焚其罟¶
-網。僧尼什物於是備焉。有陳馭㝢江海廓¶
-清。講授門徒彌繁梁季。宣帝命旅剋有¶
+網。僧尼什物於是備焉。有陳馭㝢江海廓清。講授門徒彌繁梁季。宣帝命旅剋有¶
 准淝。一戰不功千金日喪。轉輸運力遂倩眾¶
 僧。文深護正法不懼嚴誅。乃格詞曰。聖上¶
 誠異宇文廢滅三寶。君子為國必在禮義。¶

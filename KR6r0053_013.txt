@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:35.336473
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2060
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0053_T_013-0521c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 續高僧傳卷第十三¶
+續高僧傳卷第十三¶
 ¶
 大唐西明寺沙門釋道宣撰¶
 
-:PROPERTIES:
-:head: 義解篇九　本傳十七　附見七
-:END:
-¶
+* 義解篇九　本傳十七　附見七¶
 
 唐京師大莊嚴寺釋慧因傳一¶
 
@@ -202,8 +198,7 @@
 化在心。今住終南至相。有名於世。
 <pb:KR6r0053_T_013-0523c>¶
 
-釋圓光。俗姓朴。本住三韓。卞韓馬韓辰¶
-韓。光即辰韓新羅人也。家世海東祖習綿遠。¶
+釋圓光。俗姓朴。本住三韓。卞韓馬韓辰韓。光即辰韓新羅人也。家世海東祖習綿遠。¶
 而神器恢廓愛染篇章。挍獵玄儒討讎子¶
 史。文華騰翥於韓服。博贍猶愧於中原。遂¶
 割略親朋發憤溟渤。年二十五。乘舶造于金¶
@@ -523,9 +518,9 @@
 　我奉能仁教
 　歸依彌勒前¶
 　願闡摩訶衍
-　成就那羅延
+　成就那羅延」
 #+END_VERSE
-」¶
+¶
 
 釋道岳。姓孟氏。河南洛陽人也。家世儒學專¶
 門守業。九歲讀詩易孝經。聰敏強識卓異¶

@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:35.230803
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2060
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0053_T_010-0501a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 續高僧傳卷第十¶
+續高僧傳卷第十¶
 ¶
 大唐西明寺沙門釋道宣撰¶
 
-:PROPERTIES:
-:head: 義解篇六　正傳十七　附見五
-:END:
-¶
+* 義解篇六　正傳十七　附見五¶
 
 隋彭城崇聖道場釋靖嵩傳一¶
 
@@ -368,7 +364,7 @@
 儀不怠。敬慎法律如聞奉用。自見法匠¶
 多略戒宗。並由虧信而重所學故也。今願¶
 兼而美之獨覺澆世。可謂明人護戒於是¶
-乎得矣。京邑擅名初皆欽羨。及見其談講¶
+乎得矣。京邑擅名初皆欽羡。及見其談講¶
 經術。並憲章先達改正文議。封言者眾不¶
 勝品藻。皆滯其恒習。聽者不滿十人。又¶
 以言令卓絕非造心者所覬故。不為晚進¶

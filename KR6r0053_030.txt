@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:36.043198
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2060
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0053_T_030-0700c> ¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 續高僧傳卷第三十¶
+續高僧傳卷第三十¶
 ¶
 大唐西明寺沙門釋道宣撰¶
 
-10雜科聲德篇
-:PROPERTIES:
-:head: 雜科聲德篇第十　正傳十二　附見¶
-八
-:END:
-¶
+* 雜科聲德篇第十　正傳十二　附見¶
+八¶
 
 陳楊都光宅寺釋慧明傳一¶
 
@@ -633,4 +628,4 @@
 聞僧海舟徑聖蹤則釋門道勝顧思齊之有¶
 日俗流上達增景仰於生常邪。輒舒傳末。¶
 冀期神之有據耳。¶
-續高僧傳卷第三十
+續高僧傳卷第三十＝三十一【宋】【元】【宮】，四十【明】三十＝三十一【宋】【元】【宮】，＝四十【明】三十三十

@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:35.266906
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2060
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0053_T_011-0508b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 續高僧傳卷第十一¶
+續高僧傳卷第十一¶
 ¶
 大唐西明寺沙門釋道宣撰¶
 
-:PROPERTIES:
-:head: 義解篇七　正紀十二　附見五
-:END:
-¶
+* 義解篇七　正紀十二　附見五¶
 
 隋渤海沙門釋志念傳一¶
 
@@ -57,7 +53,7 @@
 十地論。聽始知終聞同先覽。於即道王河¶
 北。流聞西秦有高昌國慧嵩法師。統解小¶
 乘。世號毘曇孔子。學匡天下眾侶塵隨。沙¶
-門道猷智洪晃覺散魏等。並稱席中杞梓慧¶
+門道猷智洪晃覺散魏等。並稱席中𣏌梓慧¶
 苑琳琅。念顧眄從之。成名猷上。皆博通玄¶
 極堪為物依。乃旋踵本鄉將弘法澤。時¶
 刺史任城王彥。帝之介弟。情附虛宗。既屬¶
@@ -637,5 +633,5 @@
 當時。敷傳法化光嗣餘景。末投迹于藍田¶
 之悟真寺。時講京邑亟動眾心。人世即目¶
 故不廣敘。¶
-續高僧傳卷第十一¶
+續高僧傳卷第十一＝第十三【明】第十一第十一¶
 

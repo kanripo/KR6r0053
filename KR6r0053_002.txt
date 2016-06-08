@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:34.921564
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2060
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0053_T_002-0432a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 續高僧傳卷第二¶
+續高僧傳卷第二¶
 ¶
 大唐西明寺沙門釋道宣撰¶
 
-:PROPERTIES:
-:head: 譯經篇二　本傳四人　附見八人
-:END:
-¶
+* 譯經篇二　本傳四人　附見八人¶
 
 隋西京大興善寺北天竺沙門那連耶舍¶
 傳一(萬天懿)¶
@@ -557,7 +553,7 @@
 諦觀。開目閉目乃經三四。如入禪定奄爾¶
 而終。持纊屬之方知已絕。且琮神慧夙成。¶
 彰於孩稚。奉信貞恪松梓其心。本師五臺¶
-山沙門道最。最亦風采標映。故琮不墜其¶
+山沙門道最。最亦風釆標映。故琮不墜其¶
 門。凡所遊習澹然獨靜。雖經物忤曾無言¶
 及。抑道從俗。勅附文館。屢逢光價能無¶
 會情。斯乃立操虛宗。遊情靡測。講誦相沿¶
