@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:36.043198
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
@@ -16,7 +16,7 @@
 ¶
 大唐西明寺沙門釋道宣撰¶
 
-10雜科聲德篇
+* 10雜科聲德篇
 :PROPERTIES:
 :head: 雜科聲德篇第十　正傳十二　附見¶
 八

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:35.564297
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
@@ -12,7 +12,8 @@
 ¶
 ¶
 
- 續高僧傳卷第十九¶
+ 
+** 4續高僧傳卷第十九¶
 ¶
 大唐西明寺沙門釋道宣撰¶
 

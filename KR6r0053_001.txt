@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:34.884151
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
@@ -12,7 +12,7 @@
 ¶
 No.2060¶
 
-續高僧傳序
+* 續高僧傳序
 :PROPERTIES:
 :head: 續高僧傳序
 :END:
@@ -97,7 +97,8 @@ No.2060¶
  續高僧傳卷第一¶
 ¶
 
-1譯經篇
+* 1譯經篇
+** 1
 :PROPERTIES:
 :head: 譯經篇初　本傳六人　附見二十七人
 :END:

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:35.659378
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
@@ -16,8 +16,8 @@
 ¶
 大唐西明寺沙門釋道宣撰¶
 
-4明律
-上
+* 4明律
+** 上
 :PROPERTIES:
 :head: 明律上　正傳十五　附見十二
 :END:

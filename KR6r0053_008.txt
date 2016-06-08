@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:35.149243
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:14
 #+TITLE: 續高僧傳
 #+PROPERTY: CBETA_ID T50n2060
 #+PROPERTY: ID KR6r0053
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 8
 ¶
 
- 續高僧傳卷第八¶
+ 
+** 4續高僧傳卷第八¶
 ¶
 大唐西明寺沙門釋道宣撰¶
 
